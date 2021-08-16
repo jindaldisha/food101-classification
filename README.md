@@ -2,8 +2,6 @@
 ## About
 `food101` dataset consists of 101 food categories, with 101,000 images. The training dataset has 75,750 images and the test dataset has 25,250 images. Each food class contains 1000 images.
 
-## Exploratory Data Analysis
-
 `
 Number of classes:  101 
 `
